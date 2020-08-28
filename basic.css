@@ -1,0 +1,50 @@
+.cloud1 {
+    position: relative;
+    margin-left: 800px;
+    width: 30%;
+    top: 30px;
+    padding-top: 60px;
+}
+
+.h {
+    margin-left: 550px;
+    font-size: 48;
+}
+
+.p {
+    margin-left: 550px;
+    font-size: 28;
+}
+
+.cloud2 {
+    position: absolute;
+    left: 100px;
+    top: 300px;
+    width: 30%;
+}
+
+.mount {
+    position: relative;
+    left: 420px;
+    top: 80px;
+}
+
+.profile {
+    padding-top: 5%;
+    width: 40%;
+    float: left;
+    margin-right: 100px;
+}
+
+.skill {
+    position: relative;
+    left: 20px;
+    width: 45%;
+    float: right;
+    margin-left: 20%;
+    padding-top: 5%;
+}
+
+.stu {
+    color: brown;
+}
